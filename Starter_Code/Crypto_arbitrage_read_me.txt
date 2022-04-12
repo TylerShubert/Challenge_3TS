@@ -1,0 +1,1 @@
+This program analizes the Bitcoin data from the exchanges Bitstamp & coinbase. Analizing the arbitrage opertunited between the two exchanges. This program produces both data in a print and vizulization for January through March of 2018. 
